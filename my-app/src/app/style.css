@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.c1{
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 100px;
+   line-height: 45px;
+
+}
+.c1 h4{
+color: #c4c4c4;
+font-size: 35px;
+font-weight: 600;
+
+}
+
+.c1 h5{
+    font-size: 40px;
+    font-weight: 600;
+   
+ }
+
+ .c1 h6{
+    font-size: 40px;
+    font-weight: 600;
+    color: #5d6dc4;
+    
+ }
+
+
+ .c2 {
+     background: #575fe3;
+    height: 400px;
+    width: 399px;
+    border-radius: 25% 75% 61% 39% / 13% 11% 89% 87%  ;
+    margin-left: 860px;
+    margin-top: -200px;
+} 
+
+.bg_img {
+   height: 100px;
+   width: 100px;
+   background: url('./four-dots-horizontally-aligned-as-a-line_56969.png');
+   background-position: center;
+   background-size: contain;
+}
